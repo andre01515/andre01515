@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 ## André Carrão
 
-student at Economic and Web Development
+I'm an economics student and Web Development
 
 - 🔭 I’m currently working on Polen
 - 🌱 I’m currently learning Java and WebDevlopment
